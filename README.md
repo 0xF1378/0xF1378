@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Cyber-security
 - 💬 Ask me anything
 - 📫 How to reach me: parrot'.#1337
-- ⚡ Fun fact: I love childrens (just a joke don't send the fbi in my house plz)
+- ⚡ Fun fact: I love childrens (just a joke)
 -->
+
+
 
 
 
