@@ -1,7 +1,7 @@
 ### Bonsoir, Elliot 
 
 
-- 🔭 I’m currently working on Infinity (Bot discord)
+- 🔭 I’m currently working on Zangetsu (Bot discord)
 - 🌱 I’m currently learning Cyber-security
 - 💬 Ask me anything
 - 📫 How to reach me: parrot'.#1337
